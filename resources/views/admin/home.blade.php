@@ -435,7 +435,7 @@
 
 
             var rawFile2 = new XMLHttpRequest();
-            rawFile2.open("GET", '/node-ws/ws-ocnusdt-dtausdt-huobi/dtausdt-usd.txt', false);
+            rawFile2.open("GET", '/node-ws/wst-huobi/dtausdt-usd.txt', false);
             rawFile2.onreadystatechange = function ()
             {
                 if(rawFile2.readyState === 4)
@@ -466,7 +466,7 @@
 
 
             var rawFile3 = new XMLHttpRequest();
-            rawFile3.open("GET", '/node-ws/ws-ocnusdt-dtausdt-huobi/ocnusdt-usd.txt', false);
+            rawFile3.open("GET", '/node-ws/wst-huobi/ocnusdt-usd.txt', false);
             rawFile3.onreadystatechange = function ()
             {
                 if(rawFile3.readyState === 4)
