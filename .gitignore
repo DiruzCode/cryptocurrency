@@ -1,0 +1,13 @@
+
+/storage/*.key
+/.idea
+/.vagrant
+/node_modules
+/public/node-ws/ws-ocnusdt-dtausdt-huobi/node_modules
+/public/node-ws/ws-eth-usd-bittrex/node_modules
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.vscode
+/vendor
