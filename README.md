@@ -40,7 +40,7 @@ $ php artisan serve
 
 * `Look`: http://127.0.0.1:8000/admin
 * `Default user` : admin@admin.cl
-* `Default password` : a1234567
+* `Default password` : 1234567
 
 
 ```
